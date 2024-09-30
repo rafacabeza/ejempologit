@@ -28,3 +28,10 @@
 # Nuevo texto en *Descargas*
 
 - Este texto lo añado en la ubicación secundaria
+
+
+# EStamos en ramaTrabajo
+
+- Vamos a implementar una nueva funcionalidad
+- O un nuevo capítulo de una documentación
+- O lo que sea, ....
