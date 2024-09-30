@@ -21,6 +21,12 @@
 - Sube tu código
 - Descarga tu código en el otro repositorio de trabajo
 
+<<<<<<< HEAD
 # Provocando un conflicto
 
 - Este texto lo escribo en la ubicación principal (*despligue*).
+=======
+# Nuevo texto en *Descargas*
+
+- Este texto lo añado en la ubicación secundaria
+>>>>>>> 640d845 (cambios en descargas)
