@@ -1,0 +1,5 @@
+# quitar .env
+.env
+
+#quitar directorio tmp
+/tmp
